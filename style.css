@@ -1,0 +1,31 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.myphoto {
+    width: 160px;
+    border-radius: 9999px;
+    text-align: center;
+}
+.name {
+    text-align: center;
+}
+h1 {
+    color: #241f1f;
+    font-family: sans-serif;
+    font-size: 28px;
+}
+.info {
+    color: #333;
+    font-family: sans-serif;
+    line-height: 1.6;
+    font-size: 14px;
+}
+.button {
+    border: 1px solid #333;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 8px;
+}
